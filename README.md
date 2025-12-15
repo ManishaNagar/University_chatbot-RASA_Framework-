@@ -38,7 +38,8 @@ To design and develop an **intelligent university inquiry system** that automate
 - Database-backed dynamic responses
 - Web-based interactive chat UI
 - Scalable and modular architecture
-
+- Voice-enabled chatbot support
+  
 ---
 
 ## 🛠️ Technology Stack
@@ -87,7 +88,6 @@ The chatbot processes user input, maps it to predefined intents, and retrieves r
 - Attendance and academic performance tracking
 - Academic calendar and holiday information
 - University website chatbot integration
-- Voice-enabled chatbot support
   
 ---
 
