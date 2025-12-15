@@ -58,7 +58,7 @@ To design and develop an **intelligent university inquiry system** that automate
 ### Development Tools
 - **PyCharm IDE**
 - **Anaconda Navigator**
-- **Rasa X**
+- **Rasa 2X**
 
 ---
 
