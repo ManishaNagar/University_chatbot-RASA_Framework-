@@ -15,7 +15,6 @@ This project demonstrates practical implementation of **Artificial Intelligence,
 - Rasa Framework (NLU & Dialogue Management)
 - Database Management (SQLite)
 - Web Development (HTML, CSS, JavaScript)
-- API Integration
 - Data Handling using Pandas
 - Software Engineering & System Design
 
